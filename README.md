@@ -1,4 +1,4 @@
-# Implementing ID3 Algorithm
+# Implementing ID3 Algorithm From Scratch
 
 ### Files Included:
 * **driver.py**:
